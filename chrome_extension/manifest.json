@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "Christmas List",
+  "description": "This extension for makeing a christmas list",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "santa16.png",
+    "default_popup": "popup.html"
+  }
+}
